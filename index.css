@@ -1,9 +1,7 @@
 body {
   background-image: url(./assets/images/KYPT.jpg);
 }
-h1,
-h2,
-h4 {
+h1 {
   color: blueviolet;
 }
 h1 {
