@@ -3,5 +3,9 @@ body {
 }
 h1 {
   color: blueviolet;
-  font-family: serif;
+  font-style: oblique;
+  font-family: "Times New Roman";
+}
+#line_27 {
+  text-align: center;
 }
